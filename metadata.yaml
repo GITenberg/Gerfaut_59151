@@ -1,5 +1,8 @@
 _repo: Gerfaut_59151
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59151-h/images/cover-half.jpg
 creator:
   author:
     agent_name: Bernard, Charles de
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1349
     wikipedia: http://en.wikipedia.org/wiki/Pierre-Marie-Charles_de_Bernard_du_Grail_de_la_Villette
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59151#Gerfaut
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
