@@ -1,0 +1,30 @@
+_repo: Gerfaut_59151
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernard, Charles de
+    aliases:
+    - Bernard-Dugrail, Charles de
+    - De Bernard, Charles
+    birthdate: 1804
+    deathdate: 1850
+    gutenberg_agent_id: '1349'
+    url: http://www.gutenberg.org/2009/agents/1349
+    wikipedia: http://en.wikipedia.org/wiki/Pierre-Marie-Charles_de_Bernard_du_Grail_de_la_Villette
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+- FR Illustrateurs
+gutenberg_issued: '2019-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59151'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gerfaut
+url: http://www.gutenberg.org/ebooks/59151
